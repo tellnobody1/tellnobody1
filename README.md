@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**tellnobody1/tellnobody1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [CV](https://github.com/tellnobody1/cv/blob/main/cv.pdf)
 
-Here are some ideas to get you started:
+- [web server](https://github.com/zero-deps/frontier)
+- [distributed data store](https://github.com/zero-deps/kvs)
+- [key-value store](https://github.com/zero-deps/db)
+- [protobuf macros](https://github.com/zero-deps/proto)
+- [health monitoring](https://github.com/zero-deps/health)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🇺🇦 [patreon](https://uaapps.github.io/patreon/#/)
+- 🇺🇦 [movies](https://uaapps.github.io/movies/#/)
+- 🇺🇦 [dictionary](https://github.com/uaapps/etou/blob/main/etou.pdf)
+- 🇺🇦 [pension](https://t.me/acpo_com_ua_bot)
